@@ -1,0 +1,22 @@
+id: AE985D93B
+title: The Testament Prayer to Orgyen Rinpoche
+type: translation
+pechas:
+- IB8EBCE24
+- I37929273
+- IAD76A174
+source_metadata:
+  languages:
+  - en
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:33:05.298678
+  last_modified_at: 2023-01-04 11:33:05.298690
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+alignment_to_base:
+  IB8EBCE24/AFEB: A860
+  I37929273/E3B2: A860
+  IAD76A174/F9FA: A860
